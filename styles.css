@@ -3,12 +3,34 @@
     padding: 0;
 }
 
+p {
+    font-family: "Dosis", sans-serif;
+}
+
+figcaption {
+    font-family: "Dosis", sans-serif;
+}
+
+ h2 {
+    font-family: "IBM Plex Serif", serif;
+ }
+
+ footer {
+    font-family: "IBM Plex Serif", serif;
+    font-weight: 100;
+    font-style: italic;
+ }
+
+
+
 body {
     overflow-x: hidden;
     display: flex;
     max-width: 100vw;
     max-height: 100vh;
 }
+
+
 
 header {
     margin-top: 0.3%;
